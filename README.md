@@ -6,7 +6,7 @@
     2. Book trip: they can book a trip in the name of a client;
     3. History: they can view all the bookings they have made;
     4. Log off;
-    <h2>to be added</h2>:
+    <h2>To be added:</h2>
         -agents can acces the app in parralel, any change made to trips beeing observable in real time;
         -communication between apps will be possible regardles of programming language used for the app;
   <h2>Technologies used </h2>
