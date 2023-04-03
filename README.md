@@ -12,6 +12,8 @@
         -communication between apps will be possible regardles of programming language used for the app;
   <h2>Technologies used </h2>
       C#<br>
-      Windows forms
+      Windows forms<br>
+      SqLite Database
+
 
       
